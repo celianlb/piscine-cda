@@ -2,72 +2,72 @@
 
 Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à aborder la Vallée des Styles, où tu apprendras à créer des éléments essentiels pour tes pages web, tels que des en-têtes et des pieds de page stylisés. Prépare-toi à relever des défis encore plus complexes !
 
-#### **Niveau 4 : Le voyageur aguerri (Intermédiaire)**
+#### **Saison 4 : Le voyageur aguerri (Intermédiaire)**
 
-**Mission 31 : L'équilibre**
+**épisode 31 : L'équilibre**
 
 - **Objectif** : Centre un élément avec CSS.
 - **Description** : Utilise la propriété `text-align` pour centrer le texte à l'intérieur d'un conteneur et `margin` pour centrer un bloc.
 - **XP** : 10 points
 - **Documentation** : [CSS Centering](https://www.w3schools.com/css/css_align.asp)
 
-**Mission 32 : Les ombres mouvantes**
+**épisode 32 : Les ombres mouvantes**
 
 - **Objectif** : Utilise les pseudo-classes CSS.
 - **Description** : Applique des styles aux éléments lors de certaines interactions (par exemple, `:hover`).
 - **XP** : 10 points
 - **Documentation** : [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
-**Mission 33 : Les pierres d'équilibre**
+**épisode 33 : Les pierres d'équilibre**
 
 - **Objectif** : Ajoute des colonnes avec Flexbox.
 - **Description** : Utilise Flexbox pour créer une mise en page à colonnes flexibles.
 - **XP** : 15 points
 - **Documentation** : [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
-**Mission 34 : Le sentier balisé**
+**épisode 34 : Le sentier balisé**
 
 - **Objectif** : Crée un menu de navigation simple.
 - **Description** : Utilise les listes non ordonnées et le CSS pour créer un menu de navigation horizontal.
 - **XP** : 15 points
 - **Documentation** : [CSS Navigation Bar](https://www.w3schools.com/css/css_navbar.asp)
 
-**Mission 35 : Le jardin structuré**
+**épisode 35 : Le jardin structuré**
 
 - **Objectif** : Crée une grille avec CSS Grid.
 - **Description** : Utilise CSS Grid pour créer une mise en page en grille.
 - **XP** : 15 points
 - **Documentation** : [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
 
-**Mission 36 : Les éclats de lumière**
+**épisode 36 : Les éclats de lumière**
 
 - **Objectif** : Ajoute une animation CSS.
 - **Description** : Utilise les animations CSS pour ajouter des effets dynamiques.
 - **XP** : 20 points
 - **Documentation** : [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
 
-**Mission 37 : Le fluide temporel**
+**épisode 37 : Le fluide temporel**
 
 - **Objectif** : Crée une transition CSS.
 - **Description** : Utilise les transitions CSS pour ajouter des effets de changement progressif.
 - **XP** : 20 points
 - **Documentation** : [CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
-**Mission 38 : Les écrans changeants**
+**épisode 38 : Les écrans changeants**
 
 - **Objectif** : Utilise des media queries pour rendre la page responsive.
 - **Description** : Utilise les media queries pour adapter la mise en page à différentes tailles d'écran.
 - **XP** : 20 points
 - **Documentation** : [CSS Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-**Mission 39 : La carte de visite**
+**épisode 39 : La carte de visite**
 
 - **Objectif** : Crée une carte de visite avec CSS.
 - **Description** : Utilise HTML et CSS pour créer une carte de visite stylisée.
 - **XP** : 25 points
 - **Documentation** : [CSS Card](https://www.w3schools.com/howto/howto_css_cards.asp)
 
-**Mission 40 : Le tableau magique**
+**épisode 40 : Le tableau magique**
 
 - **Objectif** : Crée un tableau responsive avec CSS.
 - **Description** : Utilise HTML et CSS pour créer un tableau qui s'adapte aux différentes tailles d'écran.
@@ -76,9 +76,9 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
 
 ---
 
-### Détails des Missions
+### Détails des épisodes
 
-#### **Mission 31 : L'équilibre**
+#### **épisode 31 : L'équilibre**
 
 - **Description** : Centre un paragraphe de texte à l'intérieur d'un conteneur div et centre également ce conteneur horizontalement sur la page.
 - **Exemple CSS** :
@@ -98,7 +98,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </div>
   ```
 
-#### **Mission 32 : Les ombres mouvantes**
+#### **épisode 32 : Les ombres mouvantes**
 
 - **Description** : Utilise les pseudo-classes CSS pour changer la couleur de fond d'un bouton lorsqu'il est survolé par la souris.
 - **Exemple CSS** :
@@ -119,7 +119,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   <button class="button">Hover me</button>
   ```
 
-#### **Mission 33 : Les pierres d'équilibre**
+#### **épisode 33 : Les pierres d'équilibre**
 
 - **Description** : Utilise Flexbox pour créer une mise en page à deux colonnes.
 - **Exemple CSS** :
@@ -144,7 +144,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </div>
   ```
 
-#### **Mission 34 : Le sentier balisé**
+#### **épisode 34 : Le sentier balisé**
 
 - **Description** : Crée un menu de navigation horizontal utilisant des listes non ordonnées et le CSS.
 - **Exemple CSS** :
@@ -176,7 +176,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </div>
   ```
 
-#### **Mission 35 : Le jardin structuré**
+#### **épisode 35 : Le jardin structuré**
 
 - **Description** : Utilise CSS Grid pour créer une mise en page en grille avec trois colonnes et deux lignes.
 - **Exemple CSS** :
@@ -208,7 +208,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </div>
   ```
 
-#### **Mission 36 : Les éclats de lumière**
+#### **épisode 36 : Les éclats de lumière**
 
 - **Description** : Ajoute une animation CSS qui change la couleur de fond d'un élément de rouge à jaune.
 - **Exemple CSS** :
@@ -230,7 +230,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   <div class="animated"></div>
   ```
 
-#### **Mission 37 : Le fluide temporel**
+#### **épisode 37 : Le fluide temporel**
 
 - **Description** : Ajoute une transition CSS qui agrandit un élément lorsque la souris passe dessus.
 - **Exemple CSS** :
@@ -254,7 +254,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   <div class="transition"></div>
   ```
 
-#### **Mission 38 : Les écrans changeants**
+#### **épisode 38 : Les écrans changeants**
 
 - **Description** : Utilise des media queries pour changer la couleur de fond de la page en fonction de la taille de l'écran.
 - **Exemple CSS** :
@@ -275,7 +275,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </body>
   ```
 
-#### **Mission 39 : La carte de visite**
+#### **épisode 39 : La carte de visite**
 
 - **Description** : Crée une carte de visite stylisée avec des informations de contact.
 - **Exemple CSS** :
@@ -303,7 +303,7 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </div>
   ```
 
-#### **Mission 40 : Le tableau magique**
+#### **épisode 40 : Le tableau magique**
 
 - **Description** : Crée un tableau responsive qui s'adapte aux différentes tailles d'écran.
 - **Exemple CSS** :
@@ -360,4 +360,4 @@ Félicitations, jeune dresseur ! Tu as traversé les Plaines CSS et es prêt à 
   </table>
   ```
 
-Bonne chance, jeune dresseur ! Chaque mission accomplie te rapprochera du titre de Maître du Web. À toi de jouer !
+Bonne chance, jeune dresseur ! Chaque épisode accomplie te rapprochera du titre de Maître du Web. À toi de jouer !

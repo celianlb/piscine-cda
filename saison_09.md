@@ -2,72 +2,72 @@
 
 Bravo, jeune dresseur ! Tu es maintenant prêt pour le défi ultime : créer un site web dédié aux Pokémon en utilisant toutes les compétences que tu as acquises jusqu'à présent. Ce projet te permettra de mettre en pratique Bootstrap, PHP, JavaScript, et le modèle MVC pour créer une application complète. Prépare-toi à relever des défis encore plus exaltants !
 
-#### **Niveau 9 : Le Maître Pokémon (Maîtrise)**
+#### **Saison 9 : Le Maître Pokémon (Maîtrise)**
 
-**Mission 81 : La page d'accueil Pokémon**
+**épisode 81 : La page d'accueil Pokémon**
 
 - **Objectif** : Crée une page d'accueil pour le site Pokémon.
 - **Description** : Utilise Bootstrap pour créer une page d'accueil accueillante avec des informations sur le site.
 - **XP** : 60 points
 - **Documentation** : [Bootstrap Navbar](https://getbootstrap.com/docs/5.0/components/navbar/), [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.0/components/jumbotron/)
 
-**Mission 82 : Le modèle de données Pokémon**
+**épisode 82 : Le modèle de données Pokémon**
 
 - **Objectif** : Crée un modèle en PHP pour gérer les données des Pokémon.
 - **Description** : Utilise PHP pour définir un modèle de données pour les Pokémon, incluant leurs caractéristiques.
 - **XP** : 65 points
 - **Documentation** : [PHP Classes and Objects](https://www.php.net/manual/en/language.oop5.basic.php)
 
-**Mission 83 : Le contrôleur Pokémon**
+**épisode 83 : Le contrôleur Pokémon**
 
 - **Objectif** : Crée un contrôleur en PHP pour gérer les interactions avec les Pokémon.
 - **Description** : Utilise PHP pour créer un contrôleur qui gère les requêtes liées aux Pokémon.
 - **XP** : 65 points
 - **Documentation** : [PHP MVC Controller](https://www.php.net/manual/en/language.oop5.php)
 
-**Mission 84 : La vue des Pokémon**
+**épisode 84 : La vue des Pokémon**
 
 - **Objectif** : Crée une vue en PHP pour afficher les Pokémon.
 - **Description** : Utilise Bootstrap pour styliser la vue des Pokémon.
 - **XP** : 65 points
 - **Documentation** : [Bootstrap Cards](https://getbootstrap.com/docs/5.0/components/card/)
 
-**Mission 85 : La recherche de Pokémon**
+**épisode 85 : La recherche de Pokémon**
 
 - **Objectif** : Implémente une fonctionnalité de recherche pour trouver des Pokémon.
 - **Description** : Utilise JavaScript et PHP pour créer une barre de recherche dynamique.
 - **XP** : 70 points
 - **Documentation** : [JavaScript Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), [PHP Form Handling](https://www.w3schools.com/php/php_forms.asp)
 
-**Mission 86 : L'ajout de Pokémon**
+**épisode 86 : L'ajout de Pokémon**
 
 - **Objectif** : Crée un formulaire pour ajouter de nouveaux Pokémon.
 - **Description** : Utilise Bootstrap pour styliser le formulaire et PHP pour traiter les données.
 - **XP** : 70 points
 - **Documentation** : [Bootstrap Forms](https://getbootstrap.com/docs/5.0/forms/overview/)
 
-**Mission 87 : La mise à jour des Pokémon**
+**épisode 87 : La mise à jour des Pokémon**
 
 - **Objectif** : Implémente une fonctionnalité pour mettre à jour les informations des Pokémon.
 - **Description** : Utilise PHP et JavaScript pour permettre la mise à jour des données des Pokémon.
 - **XP** : 70 points
 - **Documentation** : [PHP File Handling](https://www.w3schools.com/php/php_file_create.asp), [JavaScript DOM Manipulation](https://www.w3schools.com/js/js_htmldom.asp)
 
-**Mission 88 : La suppression de Pokémon**
+**épisode 88 : La suppression de Pokémon**
 
 - **Objectif** : Implémente une fonctionnalité pour supprimer des Pokémon.
 - **Description** : Utilise PHP pour gérer la suppression des Pokémon et JavaScript pour l'interaction utilisateur.
 - **XP** : 70 points
 - **Documentation** : [PHP File Handling](https://www.w3schools.com/php/php_file_create.asp)
 
-**Mission 89 : La page de détails Pokémon**
+**épisode 89 : La page de détails Pokémon**
 
 - **Objectif** : Crée une page de détails pour chaque Pokémon.
 - **Description** : Utilise PHP et Bootstrap pour afficher les détails de chaque Pokémon de manière attrayante.
 - **XP** : 75 points
 - **Documentation** : [Bootstrap Modal](https://getbootstrap.com/docs/5.0/components/modal/)
 
-**Mission 90 : Le déploiement du site Pokémon**
+**épisode 90 : Le déploiement du site Pokémon**
 
 - **Objectif** : Déploie le site Pokémon sur un serveur.
 - **Description** : Utilise un service d'hébergement web pour déployer ton site Pokémon en ligne.
@@ -76,9 +76,9 @@ Bravo, jeune dresseur ! Tu es maintenant prêt pour le défi ultime : créer un 
 
 ---
 
-### Détails des Missions
+### Détails des épisodes
 
-#### **Mission 81 : La page d'accueil Pokémon**
+#### **épisode 81 : La page d'accueil Pokémon**
 
 - **Description** : Crée une page d'accueil accueillante avec une navigation et une introduction au site.
 - **Exemple HTML** :
@@ -123,7 +123,7 @@ Bravo, jeune dresseur ! Tu es maintenant prêt pour le défi ultime : créer un 
   </html>
   ```
 
-#### **Mission 82 : Le modèle de données Pokémon**
+#### **épisode 82 : Le modèle de données Pokémon**
 
 - **Description** : Crée un modèle PHP pour gérer les données des Pokémon.
 - **Exemple PHP** :
@@ -160,7 +160,7 @@ Bravo, jeune dresseur ! Tu es maintenant prêt pour le défi ultime : créer un 
   }
   ```
 
-#### **Mission 83 : Le contrôleur Pokémon**
+#### **épisode 83 : Le contrôleur Pokémon**
 
 - **Description** : Crée un contrôleur en PHP pour gérer les interactions avec les Pokémon.
 - **Exemple PHP** :
@@ -193,7 +193,7 @@ Bravo, jeune dresseur ! Tu es maintenant prêt pour le défi ultime : créer un 
   }
   ```
 
-#### **Mission 84 : La vue des Pokémon**
+#### **épisode 84 : La vue des Pokémon**
 
 - **Description** : Crée une vue en PHP pour afficher les Pokémon avec Bootstrap.
 - **Exemple PHP/HTML** :
@@ -237,7 +237,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   </html>
   ```
 
-#### **Mission 85 : La recherche de Pokémon**
+#### **épisode 85 : La recherche de Pokémon**
 
 - **Description** : Implémente une barre de recherche dynamique pour trouver des Pokémon.
 - **Exemple HTML/PHP/JavaScript** :
@@ -293,7 +293,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   </html>
   ```
 
-#### **Mission 86 : L'ajout de Pokémon**
+#### **épisode 86 : L'ajout de Pokémon**
 
 - **Description** : Crée un formulaire pour ajouter de nouveaux Pokémon.
 - **Exemple HTML/PHP** :
@@ -343,7 +343,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   header('Location: pokemon_list.php');
   ```
 
-#### **Mission 87 : La mise à jour des Pokémon**
+#### **épisode 87 : La mise à jour des Pokémon**
 
 - **Description** : Implémente une fonctionnalité pour mettre à jour les informations des Pokémon.
 - **Exemple HTML/PHP** :
@@ -400,7 +400,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   header('Location: pokemon_list.php');
   ```
 
-#### **Mission 88 : La suppression de Pokémon**
+#### **épisode 88 : La suppression de Pokémon**
 
 - **Description** : Implémente une fonctionnalité pour supprimer des Pokémon.
 - **Exemple HTML/PHP/JavaScript** :
@@ -451,7 +451,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   header('Location: pokemon_list.php');
   ```
 
-#### **Mission 89 : La page de détails Pokémon**
+#### **épisode 89 : La page de détails Pokémon**
 
 - **Description** : Crée une page de détails pour chaque Pokémon.
 - **Exemple HTML/PHP** :
@@ -485,7 +485,7 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   </html>
   ```
 
-#### **Mission 90 : Le déploiement du site Pokémon**
+#### **épisode 90 : Le déploiement du site Pokémon**
 
 - **Description** : Déploie le site Pokémon sur un serveur en ligne.
 - **Documentation** :
@@ -495,4 +495,4 @@ link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap
   - Tester le site en ligne pour s'assurer que tout fonctionne correctement.
   - Utiliser un nom de domaine pour rendre le site accessible.
 
-Bonne chance, jeune dresseur ! Chaque mission accomplie te rapprochera du titre de Maître du Web. À toi de jouer !
+Bonne chance, jeune dresseur ! Chaque épisode accomplie te rapprochera du titre de Maître du Web. À toi de jouer !
