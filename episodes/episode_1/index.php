@@ -8,5 +8,6 @@
   <body>
     <h1>Mon premier site web</h1>
     <p>Voici mon premier site web écrit simplement en html</p>
+    <?php echo "Hello" ?>
   </body>
 </html>
